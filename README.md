@@ -4,8 +4,7 @@
 
 <p align="left">
 🎓 Computer Science student passionate about technology and programming.<br>
-💻 Skilled in Java, Python, and C#.<br>
-🎮 Currently diving into the world of game development and design.<br>
+🎮 Currently diving into the world of game development, design, Java and C#.<br>
 📚 Always learning and exploring new technologies!
 </p>
 
