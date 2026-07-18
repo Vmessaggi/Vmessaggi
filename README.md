@@ -4,7 +4,7 @@
 
 <p align="left">
 🎓 Computer Science student passionate about technology and programming.<br>
-💻 Skilled in JavaScript, React, HTML5, CSS3, Python, and C#.<br>
+💻 Skilled in Java, Python, and C#.<br>
 🎮 Currently diving into the world of game development and design.<br>
 📚 Always learning and exploring new technologies!
 </p>
@@ -12,13 +12,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="15" />
